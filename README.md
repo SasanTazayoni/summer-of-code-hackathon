@@ -4,6 +4,8 @@
 
 ![HTML](tech/html.png) ![CSS](tech/css.png) ![Javascript](tech/javascript.png)
 
+![Gold](assets/images/gold.png.png)
+
 ## Introduction
 
 Welcome to the Trail Pals website. Trail Pals organises hiking events based in Dublin.
