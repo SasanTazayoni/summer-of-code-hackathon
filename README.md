@@ -4,7 +4,7 @@
 
 ![HTML](tech/html.png) ![CSS](tech/css.png) ![Javascript](tech/javascript.png)
 
-![Gold](assets/images/gold.png.png)
+![Gold](assets/images/gold.png)
 
 ## Introduction
 
