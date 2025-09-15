@@ -2,7 +2,7 @@
 
 # Trail Pals
 
-![HTML](tech/html.png) ![CSS](tech/css.png) ![Javascript](tech/javascript.png) ![Bootstrap](tech/bootstrap.png)
+![HTML](tech/html.png) ![CSS](tech/css.png) ![Javascript](tech/javascript.png) ![Bootstrap](tech/bootstrap.png) ![Gitpod](tech/gitpod.png) ![Git](tech/git.png)
 
 ![Gold](assets/images/gold.png)
 
